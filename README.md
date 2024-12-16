@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Biruktayit Habtegiorgis</h1>
 <h3 align="center">An aspiring software engineer from Ethiopia</h3>
 
-<img align="right" alt="Coding" width="300" height="300" src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biruk-hg&label=Profile%20views&color=0e75b6&style=flat" alt="biruk-hg" /> </p>
 
 - 🏫 I’m currently enrollled in **Trinity College**
 
