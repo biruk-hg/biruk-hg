@@ -1,6 +1,5 @@
 # AboutMe
 
-[![Masterhead]
 <h1 align="center">Hi 👋, I'm Biruktayit Habtegiorgis</h1>
 <h3 align="center">An aspiring software engineer from Ethiopia</h3>
 
