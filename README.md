@@ -1,17 +1,17 @@
 # AboutMe
 
-<h1 align="center">Hi 👋, I'm Biruktayit Habtegiorgis</h1>
+<h1 align="center">Hi, I'm Biruktayit Habtegiorgis</h1>
 <h3 align="center">An aspiring software engineer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biruk-hg&label=Profile%20views&color=0e75b6&style=flat" alt="biruk-hg" /> </p>
 
-- 🏫 I’m currently enrollled in **Trinity College**
+- I’m currently enrollled in **Trinity College**
 
-- 💬 Ask me about **Python, Java, JavaScript**
+- Ask me about **Cybersecurity**
 
-- 📫 How to reach me **bhabtegi@trincoll.edu**
+- How to reach me **bhabtegi@trincoll.edu**
 
-- ⚡ Fun fact **I love tennis!**
+- Fun fact **I love tennis!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
