@@ -1,7 +1,7 @@
 # AboutMe
 
 <h1 align="center">Hi, I'm Biruktayit Habtegiorgis</h1>
-<h3 align="center">An aspiring software engineer from Ethiopia</h3>
+<h3 align="center">An aspiring cybersecurity analyst from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biruk-hg&label=Profile%20views&color=0e75b6&style=flat" alt="biruk-hg" /> </p>
 
