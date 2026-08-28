@@ -4,7 +4,7 @@
   Hi, I'm Biruktayit Habtegiorgis
 </h1> 
 
-<img align="right" src="./typing.mp4" width="300"/>
+<img align="right" src="https://github.com/biruk-hg/biruk-hg/blob/main/typing.mp4" width="300"/>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=biruk-hg&label=Profile%20views&color=0e75b6&style=flat" alt="biruk-hg" /> 
