@@ -4,15 +4,16 @@
   Hi, I'm Biruktayit Habtegiorgis
 </h1> 
 
-<img align="right" src="https://github.com/user-attachments/assets/5353400a-931e-4079-b4ec-2465a5158e05" width="300"/>
+<img align="right" src="./typing.mp4" width="300"/>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=biruk-hg&label=Profile%20views&color=0e75b6&style=flat" alt="biruk-hg" /> 
 </p> 
-    - I’m currently studying Computer Science & Applied Mathematics at **Trinity College** 
-    - Ask me about **Software Engineering**, **Cybersecurity**, or **Phishing** 
-    - How to reach me **biruktayit.hg@gmail.com** 
-    - Fun fact **I love tennis!** 
+
+- I’m currently studying Computer Science & Applied Mathematics at **Trinity College** 
+- Ask me about **Software Engineering**, **Cybersecurity**, or **Phishing** 
+- How to reach me **biruktayit.hg@gmail.com** 
+- Fun fact **I love tennis!** 
 
 <h3 align="left">
   Connect with me:</h3> 
