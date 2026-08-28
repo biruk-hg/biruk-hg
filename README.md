@@ -4,8 +4,6 @@
   Hi, I'm Biruktayit Habtegiorgis
 </h1> 
 
-![Coding animation](https://github.com/biruk-hg/biruk-hg/blob/main/typing.mp4)
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=biruk-hg&label=Profile%20views&color=0e75b6&style=flat" alt="biruk-hg" /> 
 </p> 
@@ -45,6 +43,11 @@
         &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biruk-hg&show_icons=true&locale=en" alt="biruk-hg" />
       </p>
       -->
+
+
+https://github.com/user-attachments/assets/77074c69-16f5-4531-acdc-83d248d6cce0
+
+
 
 
 
