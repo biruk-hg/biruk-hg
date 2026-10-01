@@ -33,9 +33,6 @@
       </p>
 
 
-https://github.com/user-attachments/assets/77074c69-16f5-4531-acdc-83d248d6cce0
-
-
 
 
 
